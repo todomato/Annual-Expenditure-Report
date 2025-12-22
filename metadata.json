@@ -1,0 +1,5 @@
+{
+  "name": "Annual Budget Planner",
+  "description": "A comprehensive budget planning tool featuring dashboard visualization, detailed editing, and annual overview with HTML export capabilities.",
+  "requestFramePermissions": []
+}
